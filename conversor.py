@@ -1,7 +1,7 @@
 import tkinter as tk
 from tkinter import ttk
 # No se espera sangría aquí, este es el lugar correcto para importar módulos o definir variables globales.
-# Tasas de cambio de ejemplo (puedes actualizarlas con tasas reales)
+# Tasas de cambio de ejemplo 
 exchange_rates = {
     "USD": 1.0,
     "EUR": 0.92,
